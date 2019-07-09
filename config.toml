@@ -37,7 +37,7 @@ googleAnalytics = "UA-127197700-1"
 	languageName = "en"
 
 [languages.ja]
-	weight = 2
+	weight = 2 
 	languageName = "ja"
 
 [languages.ja.params]

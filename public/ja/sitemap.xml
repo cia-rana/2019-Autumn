@@ -3,31 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gocon.jp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://gocon.jp/ja/"
-                />
+    <loc>http://gocon.jp/ja/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://gocon.jp/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://gocon.jp/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://gocon.jp/ja/tags/"
+                href="http://gocon.jp/ja/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://gocon.jp/ja/tags/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://gocon.jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://gocon.jp/ja/tags/"
                 />
   </url>
   
