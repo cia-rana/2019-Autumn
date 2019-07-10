@@ -1,0 +1,6 @@
+/resources/
+public/
+node_modules/
+.firebase/
+.idea/
+.firebase/
