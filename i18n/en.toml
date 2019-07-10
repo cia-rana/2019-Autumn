@@ -3,7 +3,7 @@
 ##########
 
 [language_switch]
-other = "English"
+other = ""
 
 ########
 # Home #
@@ -28,9 +28,6 @@ other = "Direction"
 [footer_share]
 other = "Share"
 
-[facebook_share_label]
-other = "Share on Facebook"
-
 [twitter_share_text]
 other = "Come join us at Go Conference 2019 Autumn in Tokyo!! #gocon"
 
@@ -44,7 +41,7 @@ other = "Follow our"
 other = "blog"
 
 [footer_follow_us]
-other = "Follow us"
+other = "#gocon on"
 
 [footer_about]
 other = "About"

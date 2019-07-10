@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -44,6 +44,14 @@
         :root{
             --primary: #00ADD8;
         }
+    body>header nav .languages a.lang.lang-ja:before {
+            content: "ja";
+            color: var(--base);
+    }
+    body>header nav .languages a.lang.lang-en:before {
+            content: "en";
+            color: var(--base);
+    }
     </style>
 
 	
@@ -159,6 +167,12 @@
 				
 				</li>
 				
+				<li class="" >
+				
+				<a href="/blog/">Blog</a>
+				
+				</li>
+				
 			</ul>
 
 			<ul class="languages">
@@ -202,11 +216,11 @@
 				</header>
 			</div>
 			<div class="follow">
-				<header>Follow us</header>
+				<header>#gocon on</header>
 				<ul class="social-list">
 					
 					<li>
-						<a href="https://twitter.com/golangjp" class="social" rel="noreferrer" target="_blank">
+						<a href="https://twitter.com/hashtag/gocon" class="social" rel="noreferrer" target="_blank">
 							<svg class="icon icon-twitter">
 	<use xlink:href="#twitter"/>
 </svg>
@@ -234,7 +248,7 @@
 				<ul>
 					
 					<li>
-						<a href="/code-of-conduct/" >
+						<a href="https://golang.org/conduct" target="_blank" rel="noopener" >
 							
 							Code of Conduct
 							

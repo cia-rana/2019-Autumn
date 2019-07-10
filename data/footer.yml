@@ -4,11 +4,11 @@ share:
 
 follow:
   - name: twitter
-    url: https://twitter.com/golangjp
+    url: https://twitter.com/hashtag/gocon
 
 content:
   - title: footer_about
     links:
       - nameKey: footer_coc
-        url: /code-of-conduct/
-        newTab: false
+        url: https://golang.org/conduct
+        newTab: true

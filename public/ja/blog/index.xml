@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ホーム on Go Conference 2019 Autumn</title>
-    <link>http://gocon.jp/ja/</link>
-    <description>Recent content in ホーム on Go Conference 2019 Autumn</description>
+    <title>ブログ on Go Conference 2019 Autumn</title>
+    <link>http://gocon.jp/ja/blog/</link>
+    <description>Recent content in ブログ on Go Conference 2019 Autumn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://gocon.jp/ja/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gocon.jp/ja/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -1,5 +1,5 @@
 baseURL = "http://gocon.jp/"
-languageCode = "en"
+languageCode = "ja"
 title = "Go Conference 2019 Autumn"
 theme = "devfest-theme-hugo"
 
@@ -15,9 +15,9 @@ googleAnalytics = "UA-127197700-1"
     description = "Go Conference is a half-annual conference of programming language Go in Tokyo."
     images = ["/images/social-share.jpg"]
     email = "info@gocon.jp"
-    keywords = "golang"
+    keywords = "golang, gocon"
     copyright = "Go Conference"
-    cfpUrl = ""
+    cfpUrl = "https://www.papercall.io/events/2581"
     subscriptionUrl = ""
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
@@ -33,12 +33,12 @@ googleAnalytics = "UA-127197700-1"
 
 [languages]
 [languages.en]
-	weight = 1
-	languageName = "en"
+    weight = 1
+    languageName = "en"
 
 [languages.ja]
-	weight = 2 
-	languageName = "ja"
+    weight = 2 
+    languageName = "ja"
 
 [languages.ja.params]
     description = "Go Conferenceは半年に1回行われるプログラミング言語Goに関するカンファレンスです。"

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ホーム
 
 menu:
   main:
@@ -10,19 +10,19 @@ menu:
 
 {{% jumbo img="" imgLabel="Go Conference 2019 Autumn" %}}
 
-## October 28th, 2019
-### Midori Community Center, Sumida-ku, Tokyo
+## 2019年10月28日(月) 
+### 墨田区みどりコミュニティセンター
 
 <a class="btn primary btn-lg" href="https://www.papercall.io/events/2581">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a talk 
+    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>登壇する
 </a>
 
 {{% /jumbo %}}
 
-{{% home-info what="Participants:200,Parallel Tracks:2" class="primary" %}}
-## What is Go Conference?
+{{% home-info what="参加者:200,トラック:2" class="primary" %}}
+## Go Conferenceとは？
 
-Go Conference is a half-annual conference of programming language Go in Tokyo.
+Go Conferenceは半年に1回行われるプログラミング言語Goに関するカンファレンスです。
 
 {{% /home-info %}}
 
@@ -31,7 +31,7 @@ Go Conference is a half-annual conference of programming language Go in Tokyo.
 <!-- ... -->
 
 {{% home-tickets %}}
-# Tickets <a class="btn primary" href="#" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Comming soon</a>
+# チケット購入 <a class="btn primary" href="#" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>準備中</a>
 
 <!--
 <ul>
@@ -52,13 +52,13 @@ Go Conference is a half-annual conference of programming language Go in Tokyo.
 
 {{% home-location
     image="/images/map.png"
-    address="3-7-3, Midori, Sumida-ku, Tokyo"
+    address="東京都墨田区緑3-7-3"
     latitude="35.69356"
     longitude="139.8033" %}}
 
-## The venue
+## 会場
 
-### Midori Community Center
+### 墨田区みどりコミュニティセンター
 
 
 {{% /home-location %}}

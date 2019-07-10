@@ -3,73 +3,72 @@
 ##########
 
 [language_switch]
-other = "English"
+other = ""
 
 ########
 # Home #
 ########
 
 [home_tickets_action]
-other = "Buy Ticket"
+other = "チケットを購入"
 
 [home_tickets_soldout]
-other = "Sold Out"
+other = "売り切れ"
 
 [home_tickets_close]
-other = "Not available"
+other = "準備中"
 
 [home_location_direction]
-other = "Direction"
+other = "検索"
 
 ##########
 # Footer #
 ##########
 
 [footer_share]
-other = "Share"
+other = "シェア"
 
 [facebook_share_label]
-other = "Share on Facebook"
+other = ""
 
 [twitter_share_text]
-other = "Come join us at Go Conference 2019 Autumn in Tokyo!! #gocon"
+other = "Go Conference 2019 Autumnに参加しましょう！ #gocon"
 
 [twitter_share_label]
-other = "Share on Twitter"
+other = "Twitterでシェアする"
 
 [footer_follow_blog]
-other = "Follow our"
+other = " "
 
 [footer_follow_blog_blog]
-other = "blog"
+other = "ブログ"
 
 [footer_follow_us]
-other = "Follow us"
+other = "#gocon"
 
 [footer_about]
 other = "About"
 
 [footer_previous_edition]
-other = "Previous edition"
+other = "過去の開催"
 
 [footer_become_partners]
-other = "Become partner"
+other = "スポンサー"
 
 [footer_become_partners_label]
-other = "Partnership Proposition"
+other = "スポンサーのお申込み"
 
 [footer_coc]
-other = "Code of Conduct"
-
+other = "行動指針"
 
 ################
 # Subscription #
 ################
 [newsletter]
-other = "Newsletter"
+other = "ニュースレター"
 
 [subscribe_notice]
-other = "No spam, only the latest news and updates!"
+other = "お知らせを通知する"
 
 [subscribe_action]
-other = "Subscribe"
+other = "通知する"

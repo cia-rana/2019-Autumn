@@ -53,6 +53,14 @@
         :root{
             --primary: {{.Site.Params.themeColor}};
         }
+    body>header nav .languages a.lang.lang-ja:before {
+            content: "ja";
+            color: var(--base);
+    }
+    body>header nav .languages a.lang.lang-en:before {
+            content: "en";
+            color: var(--base);
+    }
     </style>
 
 	{{ block "headextra" . }}
