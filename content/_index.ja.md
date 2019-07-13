@@ -13,7 +13,7 @@ menu:
 ## 2019年10月28日(月) 
 ### 墨田区みどりコミュニティセンター
 
-<a class="btn primary btn-lg" href="https://www.papercall.io/events/2581">
+<a class="btn primary btn-lg" href="https://www.papercall.io/gocon-tokyo-2019-autumn">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>登壇する
 </a>
 

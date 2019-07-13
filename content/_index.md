@@ -13,7 +13,7 @@ menu:
 ## October 28th, 2019
 ### Midori Community Center, Sumida-ku, Tokyo
 
-<a class="btn primary btn-lg" href="https://www.papercall.io/events/2581">
+<a class="btn primary btn-lg" href="https://www.papercall.io/gocon-tokyo-2019-autumn">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a talk 
 </a>
 
