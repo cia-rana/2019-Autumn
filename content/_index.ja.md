@@ -47,6 +47,10 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 
 {{% /home-tickets %}}
 
+{{% home-tickets %}}
+# スポンサー <a class="btn primary" href="https://docs.google.com/presentation/d/1O7Qzp9EFJ-1V0J3-PaT6vQNXQYLTN8s5oO87W2AK2ac/edit?usp=sharing" target="_blank">スポンサーに申し込む</a>
+{{% /home-tickets %}}
+
 
 <!-- ... -->
 
