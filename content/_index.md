@@ -13,9 +13,7 @@ menu:
 ## October 28th, 2019
 ### Midori Community Center, Sumida-ku, Tokyo
 
-<a class="btn primary btn-lg" href="https://www.papercall.io/gocon-tokyo-2019-autumn">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a talk 
-</a>
+<a class="btn primary" href="https://gocon.connpass.com/event/148602/" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Buy a conference ticket</a> <a class="btn primary" href="https://gocon.connpass.com/event/149447/" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Buy a after party ticket</a>
 
 {{% /jumbo %}}
 
@@ -31,19 +29,34 @@ Go Conference is a half-annual conference of programming language Go in Tokyo.
 <!-- ... -->
 
 {{% home-tickets %}}
-# Tickets <a class="btn primary" href="#" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Comming soon</a>
+# Tickets 
 
-<!--
 <ul>
-<li>{{< ticket name="一般参加者"
-           starts="2019-07-31"
-           ends="2019-04-25"
-           price="xxx yen"
-           info=""
-           soldOut="true"
-           url="" >}}</li>
+<li>{{<ticket name="General Addmission"
+           starts="2019-09-30"
+           ends="2019-10-25"
+           price="2000 JPY"
+           info="130 tickets"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
+<li>{{<ticket name="For People from Distance"
+           starts="2019-09-30"
+           ends="2019-10-25"
+           price="2000 JPY"
+           info="5 tickets"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
+<li>{{<ticket name="Volunteer Staff"
+           starts="2019-09-30"
+           ends="2019-10-25"
+           price="0 JPY"
+           info="10 tickets"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
+<li>{{<ticket name="After Party"
+           starts="2019-09-30"
+           ends="2019-10-21"
+           price="0 JPY"
+           info="70 tickets (for only paticipants of the conference)"
+           url="https://gocon.connpass.com/event/149447/">}}</li>
 </ul>
--->
 
 {{% /home-tickets %}}
 

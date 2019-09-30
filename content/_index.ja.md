@@ -13,9 +13,7 @@ menu:
 ## 2019年10月28日(月) 
 ### 墨田区みどりコミュニティセンター
 
-<a class="btn primary btn-lg" href="https://www.papercall.io/gocon-tokyo-2019-autumn">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>登壇する
-</a>
+<a class="btn primary" href="https://gocon.connpass.com/event/148602/" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>カンファレンスチケット</a> <a class="btn primary" href="https://gocon.connpass.com/event/149447/" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>懇親会チケット</a>
 
 {{% /jumbo %}}
 
@@ -31,19 +29,34 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 <!-- ... -->
 
 {{% home-tickets %}}
-# チケット購入 <a class="btn primary" href="#" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>準備中</a>
+# チケット購入
 
-<!--
 <ul>
-<li>{{< ticket name="一般参加者"
-           starts="2019-07-31"
-           ends="2019-04-25"
-           price="xxx yen"
-           info=""
-           soldOut="true"
-           url="" >}}</li>
+<li>{{<ticket name="一般枠"
+           starts="2019-09-30"
+           ends="2019-10-25"
+           price="2000円"
+           info="130名"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
+<li>{{<ticket name="遠方枠"
+           starts="2019-09-30"
+           ends="2019-10-25"
+           price="2000円"
+           info="5名"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
+<li>{{<ticket name="当日スタッフ"
+           starts="2019-09-30"
+           ends="2019-10-25"
+           price="無料"
+           info="10名"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
+<li>{{<ticket name="懇親会"
+           starts="2019-09-30"
+           ends="2019-10-21"
+           price="無料"
+           info="70名（カンファレンス参加者のみ)"
+           url="https://gocon.connpass.com/event/148602/">}}</li>
 </ul>
--->
 
 {{% /home-tickets %}}
 
