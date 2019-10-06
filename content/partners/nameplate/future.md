@@ -1,7 +1,7 @@
 ---
 key: future
 title: Future
-category: nameplate
+category: tofu on fire
 order: 21
 logo: /images/partners/logo-future.png
 website: 'https://www.future.co.jp/'
