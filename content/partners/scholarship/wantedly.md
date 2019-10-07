@@ -14,5 +14,8 @@ socials:
   - icon: link
     link: 'https://wantedlyinc.com/ja/presentations'
     name: Wantedly
+  - icon: twitter
+    link: 'https://twitter.com/wantedly_dev'
+    name: Wantedly-twitter
 ---
 ウォンテッドリーは、『シゴトでココロオドル人をふやす』ために、はたらくすべての人が共感を通じて「であい」「つながり」「つながりを深める」ためのビジネスSNS「Wantedly」を提供しています。
