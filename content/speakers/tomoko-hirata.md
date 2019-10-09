@@ -1,8 +1,8 @@
 ---
-key: tomoko-hirata
+key: tomoko_hirata
 name: tomoko hirata
-feature: true
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: tomoko_hirata
+feature: false
 company: Gunosy
 city: 'Tokyo'
 photoURL: /images/speakers/speaker-tomoko-hirata.jpeg

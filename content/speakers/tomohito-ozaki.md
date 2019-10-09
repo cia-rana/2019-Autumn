@@ -1,7 +1,7 @@
 ---
-key: tomohito-ozaki
+key: tomohito_ozaki
 name: Tomohito Ozaki (yuroyoro)
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: tomohito_ozaki
 feature: false
 photoURL: /images/speakers/speaker-tomohito-ozaki.png
 socials:

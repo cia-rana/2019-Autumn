@@ -1,7 +1,7 @@
 ---
-key: praveen-sastry
+key: praveen_sastry
 name: Praveen Sastry
-id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: praveen_sastry
 feature: false
 company: Senior Engineer @ Seek
 photoURL: /images/speakers/speaker-praveen-sastry.jpg

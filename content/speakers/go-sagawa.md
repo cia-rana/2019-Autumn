@@ -1,7 +1,7 @@
 ---
-key: go-sagawa
+key: go_sagawa
 name: Go Sagawa
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: go_sagawa
 feature: false
 company: and factory, Inc
 photoURL: /images/speakers/speaker-go-sagawa.png

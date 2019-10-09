@@ -1,7 +1,7 @@
 ---
-key: junki-kaneko
+key: junki_kaneko
 name: Junki Kaneko
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: junki_kaneko
 feature: false
 company: DeNA
 photoURL: /images/speakers/speaker-junki-kaneko.jpeg

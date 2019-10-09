@@ -1,7 +1,7 @@
 ---
 key: avvmoto
 name: avvmoto.stmasnotes
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: avvmoto
 feature: false
 company: DeNA
 city: 'Tokyo'

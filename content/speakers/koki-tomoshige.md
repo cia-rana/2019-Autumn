@@ -1,7 +1,7 @@
 ---
-key: koki-tomoshige
+key: koki_tomoshige
 name: Koki Tomoshige
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: koki_tomoshige
 feature: false
 photoURL: /images/speakers/speaker-koki-tomoshige.jpeg
 socials:

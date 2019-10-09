@@ -1,7 +1,7 @@
 ---
-key: tomoya-amachi
+key: tomoy_amachi
 name: Tomoya Amachi
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+key: tomoya_amachi
 feature: false
 company: GoodWith LLC.,
 city: 'Yokohama, Japan'

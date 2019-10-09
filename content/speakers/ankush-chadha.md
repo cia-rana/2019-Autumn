@@ -1,7 +1,7 @@
 ---
-key: ankush-chadha
+key: ankush_chadha
 name: ankush chadha
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: ankush_chadha
 feature: false
 company: JFrog
 photoURL: /images/speakers/speaker-ankush-chadha.jpg

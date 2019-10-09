@@ -1,7 +1,7 @@
 ---
-key: masashi-shibata
+key: masashi_shibata
 name: Masashi SHIBATA
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: masashi_shibata
 feature: false
 company: CyberAgent, Inc.
 photoURL: /images/speakers/speaker-masashi-shibata.png

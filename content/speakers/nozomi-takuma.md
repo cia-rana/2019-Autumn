@@ -1,7 +1,7 @@
 ---
-key: nozomi-takuma
+key: nozomi_takuma
 name: Nozomi Takuma
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: nozomi_takuma
 feature: false
 company: DeNA Co.,Ltd
 photoURL: /images/speakers/speaker-nozomi-takuma.jpeg
