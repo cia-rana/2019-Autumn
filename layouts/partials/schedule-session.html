@@ -1,0 +1,31 @@
+<a href="{{ .Permalink }}">
+	<h4 title="{{ .Title }}">
+	    {{ if .Params.tags }}
+	    <div class="tags">
+	    	{{ range .Params.tags }}
+	    	{{ range first 1 (where $.Site.Data.categories "key" .) }}
+	    	<span>{{ .name }}</span>
+	    	{{ end }}
+	    	{{ end }}
+	    </div>
+	    {{ end }}
+		{{ .Title }}
+	</h4>
+
+	<hr>
+
+	{{ if .Params.speakers }}
+	<ul class="speakers {{ if eq 1 (len .Params.speakers) }}single{{ else }}multi{{ end }}">
+		{{ range where $.Site.RegularPages "Params.key" "in" .Params.speakers }}
+		<li class="speaker">
+			<div class="speaker-img" style="background-image: url({{ .Params.photoURL }});"></div>
+			<strong class="speaker-name">{{ .Params.name }}</strong>
+<!--			<div class="speaker-company">{{ .Params.company }}</div>-->
+		</li>
+		{{ end }}
+	</div>
+
+	</ul>
+	{{ end }}
+
+</a>

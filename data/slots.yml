@@ -1,0 +1,36 @@
+- key: registration
+  start: '09:00'
+  duration: 60
+  row:
+    start: 1
+    end: 2
+- key: opening
+  start: '10:00'
+  duration: 10
+  row:
+    start: 2
+    end: 3
+- key: break1
+  start: '10:10'
+  duration: 15
+  row:
+    start: 3
+    end: 4
+- key: l-1h
+  start: '10:25'
+  duration: 40
+  row:
+    start: 4
+    end: 5
+- key: s-2h
+  start: '10:45'
+  duration: 20
+  row:
+    start: 5
+    end: 6
+- key: s-4h
+  start: '14:20'
+  duration: 20
+  row:
+    start: 10
+    end: 11
