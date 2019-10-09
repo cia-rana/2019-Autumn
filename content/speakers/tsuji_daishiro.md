@@ -1,7 +1,7 @@
 ---
-key: tsuji-daishiro
+key: tsuji_daishiro
 name: Tsuji Daishiro
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: tsuji_daishiro
 feature: false
 company: Future Corporation
 photoURL: /images/speakers/speaker-tsuji-daishiro.jpg

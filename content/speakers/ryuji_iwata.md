@@ -1,7 +1,7 @@
 ---
-key: ryuji-iwata
+key: ryuji_iwata
 name: Ryuji Iwata
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: ryuji_iwata
 feature: false
 city: 'Okayama, Japan'
 photoURL: /images/speakers/speaker-ryuji-iwata.png

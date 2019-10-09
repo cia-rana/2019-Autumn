@@ -1,7 +1,7 @@
 ---
-key: michiru-shirakawa
+key: michiru_shirakawa
 name: Michiru Shirakawa
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: michiru_shirakawa
 feature: false
 company: LINE Corporation
 city: 'Tokyo'

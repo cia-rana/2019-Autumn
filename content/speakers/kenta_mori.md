@@ -1,7 +1,7 @@
 ---
-key: kenta-mori
+key: kenta_mori
 name: Kenta Mori
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: kenta_mori
 feature: false
 company: Merpay
 city: 'Tokyo, Japan'

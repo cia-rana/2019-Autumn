@@ -1,7 +1,7 @@
 ---
-key: nao-yonashiro
+key: nao_yonashiro
 name: Nao YONASHIRO
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: nao_yonashiro
 feature: false
 company: Recruit Technologies
 photoURL: /images/speakers/speaker-nao-yonashiro.jpeg

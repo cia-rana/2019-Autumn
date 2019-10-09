@@ -1,7 +1,7 @@
 ---
-key: yaegashi-takeshi
+key: yaegashi_takeshi
 name: YAEGASHI Takeshi
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: yaegashi_takeshi
 feature: false
 city: 'Tokyo'
 photoURL: /images/speakers/speaker-yaegashi-takeshi.jpeg

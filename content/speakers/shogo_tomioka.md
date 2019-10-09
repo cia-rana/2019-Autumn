@@ -1,7 +1,7 @@
 ---
-key: shogo-tomioka
+key: shogo_tomioka
 name: Shogo Tomioka
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: shogo_tomioka
 feature: false
 company: AbemaTV Inc.
 photoURL: /images/speakers/speaker-shogo-tomioka.png
