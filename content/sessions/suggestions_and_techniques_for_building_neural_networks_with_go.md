@@ -6,7 +6,7 @@ format: conference
 talkType: short_session
 level: all
 tags:
-  - S-4A
+  - S-7A
 speakers:
   - po3rin
 videoId: null

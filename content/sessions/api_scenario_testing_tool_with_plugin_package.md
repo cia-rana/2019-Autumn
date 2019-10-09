@@ -7,7 +7,7 @@ format: conference
 talkType: long_session
 level: all
 tags:
-  - L-3A
+  - L-6A
 speakers:
   - kenta_mori
 videoId: null

@@ -7,7 +7,7 @@ format: conference
 talkType: long_session
 level: intermediate
 tags:
-  - L-8A
+  - L-11A
 speakers:
   - bokuweb
 draft: false

@@ -7,7 +7,7 @@ format: conference
 talkType: short_session
 level: beginner
 tags:
-  - S-9A
+  - S-12A
 speakers:
   - junki_kaneko
 draft: false

@@ -6,7 +6,7 @@ language: Japanese
 format: conference
 talkType: long_session
 tags:
-  - L-10A
+  - L-13A
 level: beginner
 speakers:
   - koki_tomoshige

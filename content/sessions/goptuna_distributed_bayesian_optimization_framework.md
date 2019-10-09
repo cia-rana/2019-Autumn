@@ -6,7 +6,7 @@ format: conference
 talkType: long_session
 level: intermediate
 tags:
-  - L-1A
+  - L-4A
 speakers:
   - masashi_shibata
 videoId: null

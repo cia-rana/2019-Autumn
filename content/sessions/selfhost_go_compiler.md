@@ -6,7 +6,7 @@ format: conference
 talkType: long_session
 level: intermediate
 tags:
-  - L-10H
+  - L-13H
 level: advanced
 speakers:
   - dqneo

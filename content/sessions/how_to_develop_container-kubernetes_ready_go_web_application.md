@@ -6,7 +6,7 @@ format: conference
 talkType: short_session
 level: intermediate
 tags:
-  - S-5A
+  - S-8A
 speakers:
   - shogo_tomioka
 videoId: null

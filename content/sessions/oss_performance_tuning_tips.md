@@ -6,7 +6,7 @@ format: conference
 talkType: long_session
 level: intermediate
 tags:
-  - L-3H
+  - L-6H
 speakers:
   - nao_yonashiro
 draft: false

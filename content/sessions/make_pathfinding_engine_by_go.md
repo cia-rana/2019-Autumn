@@ -6,7 +6,7 @@ format: conference
 talkType: long_session
 level: beginner
 tags:
-  - L-8H
+  - L-11H
 speakers:
   - avvmoto_stmasnotes
 videoId: null

@@ -6,7 +6,7 @@ format: conference
 talkType: short_session
 level: all
 tags:
-  - S-7A
+  - S-10A
 speakers:
   - yevgeny_pats
 videoId: null

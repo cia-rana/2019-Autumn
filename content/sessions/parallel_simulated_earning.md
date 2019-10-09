@@ -6,7 +6,7 @@ format: conference
 level: all
 talkType: short_session
 tags:
-  - S-6A
+  - S-9A
 speakers:
   - tsuji_daishiro
 videoId: null

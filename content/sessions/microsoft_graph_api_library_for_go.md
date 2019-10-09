@@ -6,7 +6,7 @@ format: conference
 talkType: short_session
 level: intermediate
 tags:
-  - S-7H
+  - S-10H
 level: advanced
 speakers:
   - yaegashi_takeshi
