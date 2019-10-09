@@ -60,6 +60,16 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 
 {{% /home-tickets %}}
 
+{{% home-speakers %}}
+## スピーカー
+
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+{{% /home-speakers %}}
+
+
 
 {{% partners categories="wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire" %}}
 # スポンサー
