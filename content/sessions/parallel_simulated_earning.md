@@ -1,7 +1,7 @@
 ---
-key: parallel_simulated
+key: parallel_simulated_earning
 title: Golangで並行シミュレーテッドアニーリング
-id: parallel_simulated
+id: parallel_simulated_earning
 format: conference
 level: all
 talkType: short_session

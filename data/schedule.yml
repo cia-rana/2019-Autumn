@@ -16,59 +16,63 @@
         - slot: break1
           talk: break
         - slot: l-4
-          talk: l-4h
+          talk: Go_GC_algorithm_101
         - slot: s-5
-          talk: s-5h
+          talk: GoにおけるAPI_Client実装パターン
         - slot: lunch
           talk: lunch
         - slot: l-6
-          talk: l-6h
+          talk: oss_performance_tuning_tips
         - slot: s-7
-          talk: s-7h
+          talk: Accelerate_Go_development_with_Bazel
         - slot: s-8
-          talk: s-8h
+          talk: multi-cloud_portability_for_go_applications
         - slot: break2
           talk: break
         - slot: s-9
-          talk: s-9h
+          talk: analysis_docker_image
         - slot: s-10
-          talk: s-10h
+          talk: microsoft_graph_api_library_for_go
         - slot: l-11
-          talk: l-11h
+          talk: make_pathfinding_engine_by_go
         - slot: break3
           talk: break
         - slot: s-12
-          talk: s-12h
+          talk: schema_first_approach_to_graphql_server_development_in_go
         - slot: l-13
-          talk: s-13h
+          talk: selfhost_go_compiler
+        - slot: c-14
+          talk: c-14h
+        - slot: c-15
+          talk: c-15h
     - room: room-a
       slots:
         - slot: l-4
-          talk: l-4a
+          talk: goptuna_distributed_bayesian_optimization_framework
         - slot: s-5
-          talk: s-5a
+          talk: auto_creating_testcode_mechanism
         - slot: lunch
           talk: lunch
         - slot: l-6
-          talk: l-6a
+          talk: api_scenario_testing_tool_with_plugin_package
         - slot: s-7
-          talk: s-7a
+          talk: suggestions_and_techniques_for_building_neural_networks_with_go
         - slot: s-8
-          talk: s-8a
+          talk: how_to_develop_container-kubernetes_ready_go_web_application
         - slot: break2
           talk: break
         - slot: s-9
-          talk: s-9a
+          talk: parallel_simulated_earning
         - slot: s-10
-          talk: s-10a
+          talk: continuous_go_fuzzing
         - slot: l-11
-          talk: l-11a
+          talk: make_gameboy_emulator
         - slot: break3
           talk: break
         - slot: s-12
-          talk: s-12a
+          talk: welcome_to_linter
         - slot: l-13
-          talk: s-13a
+          talk: write_container_runtime_in_go
     - room: room-b
       slots:
 

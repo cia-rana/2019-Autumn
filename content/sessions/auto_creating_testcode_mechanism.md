@@ -1,7 +1,7 @@
 ---
-key: study_in_gotests
+key: auto_creating_testcode_mechanism
 title: gotestsから学ぶテストコード自動生成のメカニズム
-id: study_in_gotests
+id: auto_creating_testcode_mechanism
 format: conference
 talkType: short_session
 level: all

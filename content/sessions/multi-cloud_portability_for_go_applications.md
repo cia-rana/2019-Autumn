@@ -1,7 +1,7 @@
 ---
-key: multi_cloud_portability_for_go_applications
+key: multi-cloud_portability_for_go_applications
 title: Multi-cloud portability for Go applications
-id: multi_cloud_portability_for_go_applications
+id: multi-cloud_portability_for_go_applications
 format: conference
 talkType: short_session
 level: all

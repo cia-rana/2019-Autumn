@@ -1,7 +1,7 @@
 ---
-key: selfhost_go__compiler
+key: selfhost_go_compiler
 title: Goコンパイラをゼロから作ってセルフホスト達成するまで
-id: selfhost_go__compiler
+id: selfhost_go_compiler
 format: conference
 talkType: long_session
 level: intermediate

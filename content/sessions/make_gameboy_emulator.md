@@ -1,7 +1,7 @@
 ---
-key: gameboy
+key: make_gameboy_emulator
 title: Goでつくるゲームボーイエミュレータ、またはブラウザでの動かし方
-id: gameboy
+id: make_gameboy_emulator
 language: Japanese
 format: conference
 talkType: long_session

@@ -1,15 +1,6 @@
 {{ if ne .Params.TalkType "sponsor_session"}}
 <a href="{{ .Permalink }}">
 	<h4 title="{{ .Title }}">
-	    {{ if .Params.tags }}
-	    <div class="tags">
-	    	{{ range .Params.tags }}
-	    	{{ range first 1 (where $.Site.Data.categories "key" .) }}
-	    	<span>{{ .name }}</span>
-	    	{{ end }}
-	    	{{ end }}
-	    </div>
-	    {{ end }}
 		{{ .Title }}
 	</h4>
 
@@ -24,8 +15,19 @@
 <!--			<div class="speaker-company">{{ .Params.company }}</div>-->
 		</li>
 		{{ end }}
-	</div>
 	</ul>
+	{{ end }}
+
+    {{ if .Params.tags }}
+    <div class="tags-holder">
+	    <div class="tags">
+	        {{ range .Params.tags }}
+	        {{ range first 1 (where $.Site.Data.categories "key" .) }}
+	        <span>{{ .name }}</span>
+	        {{ end }}
+	        {{ end }}
+	    </div>
+    </div>
 	{{ end }}
 </a>
 {{else}}
@@ -33,15 +35,6 @@
 
 <a href="{{ $partner.Permalink }}">
 	<h4 title="{{ .Title }}">
-	    {{ if .Params.tags }}
-	    <div class="tags">
-	    	{{ range .Params.tags }}
-	    	{{ range first 1 (where $.Site.Data.categories "key" .) }}
-	    	<span>{{ .name }}</span>
-	    	{{ end }}
-	    	{{ end }}
-	    </div>
-	    {{ end }}
 		{{ .Title }}
 	</h4>
 
@@ -52,8 +45,20 @@
 			<strong class="speaker-name">{{ $partner.Title }}</strong>
 <!--			<div class="speaker-company">{{ .Params.company }}</div>-->
 		</li>
-	</div>
 	</ul>
+
+	{{ if .Params.tags }}
+    <div class="tags-holder">
+    	<div class="tags">
+    		{{ range .Params.tags }}
+    		{{ range first 1 (where $.Site.Data.categories "key" .) }}
+    		<span>{{ .name }}</span>
+    		{{ end }}
+    		{{ end }}
+    	</div>
+	</div>
+	{{ end }}
+
 </a>
 
 {{end}}

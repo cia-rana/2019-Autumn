@@ -72,3 +72,10 @@ section .tags, .page.speakers .talk.tag-s-4h > div > span {
     padding-top: var(--space-1);
     padding-bottom: var(--space-1);
 }
+
+.section.schedule .session>a .tags-holder {
+    width: 60px;
+    margin: auto 0 0 auto;
+    padding: 4px;
+    text-align: center;
+}

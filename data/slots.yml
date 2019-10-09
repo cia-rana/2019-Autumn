@@ -3,112 +3,124 @@
   duration: 60
   row:
     start: 1
-    end: 2
+    end: 3
 - key: opening
   start: '10:00'
   duration: 10
   row:
-    start: 2
-    end: 3
+    start: 3
+    end: 5
 - key: c-1h
   start: '10:10'
   duration: 5
   row:
-    start: 3
-    end: 4
+    start: 5
+    end: 7
 - key: c-2h
   start: '10:15'
   duration: 5
   row:
-    start: 4
-    end: 5
+    start: 7
+    end: 9
 - key: c-3h
   start: '10:25'
   duration: 10
   row:
-    start: 5
-    end: 6
+    start: 9
+    end: 11
 - key: break1
   start: '10:35'
   duration: 15
   row:
-    start: 6
-    end: 7
+    start: 11
+    end: 12
 - key: l-4
   start: '10:50'
   duration: 40
   row:
-    start: 7
-    end: 8
+    start: 12
+    end: 14
 - key: s-5
   start: '11:40'
   duration: 20
   row:
-    start: 8
-    end: 9
+    start: 14
+    end: 16
 - key: lunch
   start: '12:00'
   duration: 80
   row:
-    start: 9
-    end: 10 
+    start: 16
+    end: 18
 - key: l-6
   start: '13:25'
   duration: 40
   row:
-    start: 10
-    end: 11
+    start: 18
+    end: 20
 - key: s-7
   start: '14:10'
   duration: 20
   row:
-    start: 11
-    end: 12
+    start: 20
+    end: 22
 - key: s-8
   start: '14:35'
   duration: 20
   row:
-    start: 12
-    end: 13
+    start: 22
+    end: 24
 - key: break2
   start: '14:55'
   duration: 10
   row:
-    start: 13
-    end: 14
+    start: 24
+    end: 25
 - key: s-9
   start: '15:05'
   duration: 20
   row:
-    start: 14
-    end: 15
+    start: 25
+    end: 27
 - key: s-10
   start: '15:30'
   duration: 20
   row:
-    start: 15
-    end: 16
+    start: 27
+    end: 29
 - key: l-11
   start: '15:55'
   duration: 40
   row:
-    start: 16
-    end: 17
+    start: 29
+    end: 31
 - key: break3
   start: '16:35'
   duration: 10
   row:
-    start: 17
-    end: 18
+    start: 31
+    end: 32
 - key: s-12
   start: '16:45'
   duration: 20
   row:
-    start: 18
-    end: 19
+    start: 32
+    end: 34
 - key: l-13
   start: '17:10'
   duration: 40
   row:
-    start: 19
-    end: 20
+    start: 34
+    end: 36
+- key: c-14
+  start: '17:55'
+  duration: 5
+  row:
+    start: 36
+    end: 38
+- key: c-15
+  start: '18:00'
+  duration: 5
+  row:
+    start: 38
+    end: 40

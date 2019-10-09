@@ -1,7 +1,7 @@
 ---
-key: how_to_develop_container_kubernetes_ready_go_web_application
+key: how_to_develop_container-kubernetes_ready_go_web_application
 title: How to develop "Container/Kubernetes Ready" Go web Application?
-id: how_to_develop_container_kubernetes_ready_go_web_application
+id: how_to_develop_container-kubernetes_ready_go_web_application
 format: conference
 talkType: short_session
 level: intermediate
