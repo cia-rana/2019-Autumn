@@ -1,0 +1,22 @@
+- day: '2019-10-28'
+  start: '09:00'
+  rooms:
+    - room: hall
+      slots:
+        - slot: registration
+          talk: registration
+        - slot: opening
+          talk: opening
+        - slot: break1
+          talk: break
+        - slot: l-1h
+          talk: Go_GC_algorithm_101
+        - slot: s-2h
+          talk: GoにおけるAPI_Client実装パターン
+        - slot: s-4h
+          talk: Accelerate_Go_development_with_Bazel
+    - room: room-a
+      slots:
+    - room: room-b
+      slots:
+

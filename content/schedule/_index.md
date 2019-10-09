@@ -1,10 +1,9 @@
 ---
-title: Speakers
+title: Schedule
 menu:
   main:
-    weight: 40
-
-draft: false
+    weight: 10
+horizontal: false
 ---
 {{% hero %}}
 {{% /hero %}}

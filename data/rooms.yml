@@ -1,0 +1,9 @@
+- key: hall
+  label: Hall
+  description: 4F
+- key: room-a
+  label: Room A
+  description: 2F
+- key: room-b
+  label: Room B
+  description: 3F
