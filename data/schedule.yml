@@ -7,16 +7,68 @@
           talk: registration
         - slot: opening
           talk: opening
+        - slot: c-1h
+          talk: c-1h
+        - slot: c-2h
+          talk: c-2h
+        - slot: c-3h
+          talk: c-3h
         - slot: break1
           talk: break
-        - slot: l-1h
-          talk: Go_GC_algorithm_101
-        - slot: s-2h
-          talk: GoにおけるAPI_Client実装パターン
-        - slot: s-4h
-          talk: Accelerate_Go_development_with_Bazel
+        - slot: l-4
+          talk: l-4h
+        - slot: s-5
+          talk: s-5h
+        - slot: lunch
+          talk: lunch
+        - slot: l-6
+          talk: l-6h
+        - slot: s-7
+          talk: s-7h
+        - slot: s-8
+          talk: s-8h
+        - slot: break2
+          talk: break
+        - slot: s-9
+          talk: s-9h
+        - slot: s-10
+          talk: s-10h
+        - slot: l-11
+          talk: l-11h
+        - slot: break3
+          talk: break
+        - slot: s-12
+          talk: s-12h
+        - slot: l-13
+          talk: s-13h
     - room: room-a
       slots:
+        - slot: l-4
+          talk: l-4a
+        - slot: s-5
+          talk: s-5a
+        - slot: lunch
+          talk: lunch
+        - slot: l-6
+          talk: l-6a
+        - slot: s-7
+          talk: s-7a
+        - slot: s-8
+          talk: s-8a
+        - slot: break2
+          talk: break
+        - slot: s-9
+          talk: s-9a
+        - slot: s-10
+          talk: s-10a
+        - slot: l-11
+          talk: l-11a
+        - slot: break3
+          talk: break
+        - slot: s-12
+          talk: s-12a
+        - slot: l-13
+          talk: s-13a
     - room: room-b
       slots:
 

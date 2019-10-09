@@ -10,27 +10,105 @@
   row:
     start: 2
     end: 3
-- key: break1
+- key: c-1h
   start: '10:10'
-  duration: 15
+  duration: 5
   row:
     start: 3
     end: 4
-- key: l-1h
-  start: '10:25'
-  duration: 40
+- key: c-2h
+  start: '10:15'
+  duration: 5
   row:
     start: 4
     end: 5
-- key: s-2h
-  start: '10:45'
-  duration: 20
+- key: c-3h
+  start: '10:25'
+  duration: 10
   row:
     start: 5
     end: 6
-- key: s-4h
-  start: '14:20'
+- key: break1
+  start: '10:35'
+  duration: 15
+  row:
+    start: 6
+    end: 7
+- key: l-4
+  start: '10:50'
+  duration: 40
+  row:
+    start: 7
+    end: 8
+- key: s-5
+  start: '11:40'
   duration: 20
+  row:
+    start: 8
+    end: 9
+- key: lunch
+  start: '12:00'
+  duration: 80
+  row:
+    start: 9
+    end: 10 
+- key: l-6
+  start: '13:25'
+  duration: 40
   row:
     start: 10
     end: 11
+- key: s-7
+  start: '14:10'
+  duration: 20
+  row:
+    start: 11
+    end: 12
+- key: s-8
+  start: '14:35'
+  duration: 20
+  row:
+    start: 12
+    end: 13
+- key: break2
+  start: '14:55'
+  duration: 10
+  row:
+    start: 13
+    end: 14
+- key: s-9
+  start: '15:05'
+  duration: 20
+  row:
+    start: 14
+    end: 15
+- key: s-10
+  start: '15:30'
+  duration: 20
+  row:
+    start: 15
+    end: 16
+- key: l-11
+  start: '15:55'
+  duration: 40
+  row:
+    start: 16
+    end: 17
+- key: break3
+  start: '16:35'
+  duration: 10
+  row:
+    start: 17
+    end: 18
+- key: s-12
+  start: '16:45'
+  duration: 20
+  row:
+    start: 18
+    end: 19
+- key: l-13
+  start: '17:10'
+  duration: 40
+  row:
+    start: 19
+    end: 20

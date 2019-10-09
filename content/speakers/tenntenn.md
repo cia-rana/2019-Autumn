@@ -3,9 +3,9 @@ key: tenntenn
 name: tenntenn
 id: tenntenn
 feature: false
-company: 
+company: Merpay
 city: 'Tokyo, Japan'
-photoURL: /images/speakers/tenntenn.png
+photoURL: /images/speakers/speaker_tenntenn.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/tenntenn'

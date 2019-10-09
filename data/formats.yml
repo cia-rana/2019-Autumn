@@ -10,3 +10,6 @@
 - key: registration
   name: 'Registration'
   id: registration
+- key: Sponsor Session
+  name: 'Sponsor Session'
+  id: sponsor_session
