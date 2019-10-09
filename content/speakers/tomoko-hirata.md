@@ -1,7 +1,7 @@
 ---
 key: tomoko-hirata
 name: tomoko hirata
-feature: true
+feature: false
 # id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
 company: Gunosy
 city: 'Tokyo'
