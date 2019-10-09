@@ -28,6 +28,15 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 <!-- ... -->
 <!-- ... -->
 
+{{% home-speakers %}}
+## スピーカー
+
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+{{% /home-speakers %}}
+
 {{% home-tickets %}}
 # チケット購入
 
@@ -59,16 +68,6 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 </ul>
 
 {{% /home-tickets %}}
-
-{{% home-speakers %}}
-## スピーカー
-
-{{< button-link label="See all speakers"
-                url="./speakers"
-                icon="right" >}}
-
-{{% /home-speakers %}}
-
 
 
 {{% partners categories="wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire" %}}

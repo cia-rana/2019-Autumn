@@ -1,5 +1,5 @@
 ---
-title: タイムスケージュール
+title: タイムスケジュール
 menu:
   main:
     weight: 10
