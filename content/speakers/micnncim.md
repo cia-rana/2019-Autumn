@@ -14,5 +14,4 @@ socials:
     link: 'https://micnncim.github.io/about/'
     name: micnncim's blog
 ---
-
 Software engineer interested in developer DevOps, productivity and automation.
