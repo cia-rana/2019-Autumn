@@ -3,7 +3,6 @@ key: break
 title: 休憩
 id: break
 format: organize
-tags:
-  - open
+allroom: true
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 key: opening
-title: Opening
+title: オープニング
 id: opening
 format: organize
 draft: false

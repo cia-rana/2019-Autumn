@@ -3,7 +3,6 @@ key: lunch
 title: ランチ休憩
 id: lunch
 format: organize
-tags:
-  - open
+allroom: true
 draft: false
 ---

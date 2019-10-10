@@ -41,10 +41,14 @@
           talk: schema_first_approach_to_graphql_server_development_in_go
         - slot: l-13
           talk: selfhost_go_compiler
+        - slot: break4
+          talk: break
         - slot: c-14
           talk: c-14h
         - slot: c-15
           talk: c-15h
+        - slot: closing
+          talk: closing
     - room: room-a
       slots:
         - slot: l-4
@@ -75,4 +79,23 @@
           talk: write_container_runtime_in_go
     - room: room-b
       slots:
-
+        - slot: chillout1
+          talk: chillout
+        - slot: chillout2
+          talk: chillout
+        - slot: party
+          talk: party
+        - slot: lt1
+          talk: recipe_to_adopt_go_modules_in_5minutes
+        - slot: lt2
+          talk: error_handling
+        - slot: lt3
+          talk: trouble_about_db_in_web_application_development
+        - slot: lt4
+          talk: go_for_first_programming
+        - slot: lt5
+          talk: using_go_plugins
+        - slot: lt6
+          talk: considering_the_introduction_of_the_anonymous_function_syntax_sugar_into_go
+        - slot: lt7
+          talk: webassembly

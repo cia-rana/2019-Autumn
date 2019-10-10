@@ -5,6 +5,7 @@ id: error_handling
 format: conference
 talkType: lt_session
 level: beginner
+inner: true
 tags:
   - LT2
 speakers:

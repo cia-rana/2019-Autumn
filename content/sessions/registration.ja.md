@@ -1,9 +1,8 @@
 ---
-key: Registration
+key: registration
 title: 受付
 id: registration
-format: registration
-key: registration
+format: organize
 draft: false
 ---
 

@@ -4,6 +4,7 @@ title: 今からはじめるWebAssembly
 id: webassembly
 format: conference
 talkType: lt_session
+inner: true
 tags:
   - LT7
 level: beginner

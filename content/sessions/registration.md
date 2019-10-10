@@ -1,9 +1,8 @@
 ---
-key: Registration
+key: registration
 title: Registration
 id: registration
-format: registration
-key: registration
+format: organize
 draft: false
 ---
 

@@ -5,6 +5,7 @@ id: considering_the_introduction_of_the_anonymous_function_syntax_sugar_into_go
 format: conference
 talkType: lt_session
 level: all
+inner: true
 tags:
   - LT6
 speakers:

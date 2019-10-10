@@ -4,6 +4,7 @@ title: Recipe to adopt Go modules in 5 minutes
 id: recipe_to_adopt_go_modules_in_5minutes
 format: conference
 talkType: lt_session
+inner: true
 tags:
   - LT1
 level: beginner

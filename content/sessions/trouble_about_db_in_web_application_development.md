@@ -5,6 +5,7 @@ id: trouble_about_db_in_web_application_development
 format: conference
 talkType: lt_session
 level: beginner
+inner: true
 tags:
   - LT3
 speakers:

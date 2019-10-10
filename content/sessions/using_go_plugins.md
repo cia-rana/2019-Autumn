@@ -5,6 +5,7 @@ id: using_go_plugins
 format: conference
 talkType: lt_session
 level: all
+inner: true
 tags:
   - LT5
 speakers:

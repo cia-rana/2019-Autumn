@@ -3,7 +3,6 @@ key: break
 title: Break
 id: break
 format: organize
-tags:
-  - open
+allroom: true
 draft: false
 ---

@@ -5,6 +5,7 @@ id: go_for_first_programming
 format: conference
 talkType: lt_session
 level: beginner
+inner: true
 tags:
   - LT4
 speakers:
