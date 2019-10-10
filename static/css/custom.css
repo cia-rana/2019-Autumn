@@ -93,4 +93,15 @@ section .tags, .page.speakers .talk.tag-s-4h > div > span {
     background-position: 50%;
     background-origin: content-box;
     margin: 0 auto;
+    text-indent:-9999px;
+}
+
+@media screen and (max-width:640px) {
+    .section.schedule .session>a .partner-img {
+        width:auto;
+        height:auto;
+        text-indent:0;
+        background-image:none !important;
+        margin-left: 1rem;
+    }
 }

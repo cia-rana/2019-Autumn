@@ -41,15 +41,9 @@
 	<hr>
 
 
-	<div class="partner-img" style="background-image: url({{ $partner.Params.logo }});"></div>
-
-    <!--
-	<ul class="speakers single">
-		<li class="speaker">
-			<strong class="speaker-name">{{ $partner.Title }}</strong>
-		</li>
-	</ul>
-    -->
+	<div class="partner-img" style="background-image: url({{ $partner.Params.logo }});">
+		<strong class="partner-name">{{ $partner.Params.title }}</strong>
+    </div>
 
 	{{ if .Params.tags }}
     <div class="tags-holder">
