@@ -3,7 +3,7 @@
   flex-basis: 320px;
 }
 
-.partners-group.partner-scholarship ul li, .partners-group.partner-party ul li {
+.partners-group.partner-scholarship ul li, .partners-group.partner-party ul li, .partners-group.partner-special.thanks ul li {
   height: var(--partner-gold-height);
   flex-basis: 200px;
 }
@@ -29,6 +29,16 @@
 }
 
 .partners-group.partner-party .fancy {
+  font-size: 1.33em;
+  color: var(--color-gold);
+
+  span:before, span:after {
+    top: 20%;
+    border-bottom: 1px solid currentColor;
+  }
+}
+
+.partners-group.partner-special.thanks .fancy {
   font-size: 1.33em;
   color: var(--color-gold);
 
