@@ -18,8 +18,15 @@
 	</ul>
 	{{ end }}
 
-    {{ if .Params.tags }}
-    <div class="tags-holder">
+    {{ if and .Params.level .Params.tags }}
+    <div class="session-info">
+    	{{ if .Params.level }}
+    	<div class="complexity" title="{{ .Params.level }}">
+    		<svg><use xlink:href="#level-{{ .Params.level }}"></use></svg>
+    	</div>
+    	{{ end }}
+
+        {{ if .Params.tags }}
 	    <div class="tags">
 	        {{ range .Params.tags }}
 	        {{ range first 1 (where $.Site.Data.categories "key" .) }}
@@ -27,8 +34,9 @@
 	        {{ end }}
 	        {{ end }}
 	    </div>
+    	{{ end }}
     </div>
-	{{ end }}
+    {{end}}
 </a>
 {{else}}
 {{$partner := index (where (where .Site.Pages "Params.category" "in" "wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire") ".Params.key" .Params.partner) 0}}
@@ -46,7 +54,7 @@
     </div>
 
 	{{ if .Params.tags }}
-    <div class="tags-holder">
+    <div class="session-info">
     	<div class="tags">
     		{{ range .Params.tags }}
     		{{ range first 1 (where $.Site.Data.categories "key" .) }}

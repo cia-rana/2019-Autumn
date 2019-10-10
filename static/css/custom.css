@@ -73,11 +73,28 @@ section .tags, .page.speakers .talk.tag-s-4h > div > span {
     padding-bottom: var(--space-1);
 }
 
-.section.schedule .session>a .tags-holder {
-    width: 60px;
+.section.schedule .session>a .session-info {
     margin: auto 0 0 auto;
     padding: 4px;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1fr;
+    display: grid;
+}
+
+.section.schedule .session>a .session-info .tags {
+    width: 60px;
     text-align: center;
+    grid-column:2;
+    grid-row:1;
+    padding-top: 4px;
+}
+
+.section.schedule .session>a .session-info .complexity {
+    width: 30px;
+    height: 30px;
+    grid-column:1;
+    grid-row:1;
+    padding-top: 5px;
 }
 
 .section.schedule .session>a .speakers {
