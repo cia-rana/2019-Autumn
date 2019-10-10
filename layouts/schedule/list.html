@@ -53,12 +53,12 @@
         {{end}}
 
 		<div class="slot" style="--duration: {{ $slot.duration }}; --row-start: {{ $slot.row.start }}; --row-end: {{ $slot.row.end }};">
-		    <span class="start">
+		    <span class="slot-start">
 			    <span class="hh">{{ $start_hh }}</span>
 			    <span class="mm">{{ $start_mm }}</span>
             </span>
             {{ if $end_hh }}
-		    <span class="end">
+		    <span class="slot-end">
 			    <span class="hh">{{ $end_hh }}</span>
 			    <span class="mm">{{ $end_mm }}</span>
             </span>
@@ -87,9 +87,17 @@
 		    {{ $sessionPage = index (where $.Site.AllPages "Params.key" .talk ) 0}}
         {{end}}
 		{{ $slot := index (where $.Site.Data.slots "key" .slot) 0 }}
+		{{ $time := split $slot.start ":" }}
+		{{ $hh := index $time 0 }}
+		{{ $mm := index $time 1 }}
 
 		<div class="session {{if $sessionPage.Params.inner}}inner{{end}} {{if $sessionPage.Params.behind}}behind{{end}} {{if $sessionPage.Params.allroom}}allroom{{end}} format-{{$sessionPage.Params.format}} tag-{{ anchorize (delimit ($sessionPage.Params.tags | default (slice)) " " ) }}"
 		style="--room: {{ $index }}; --row-start: {{ $slot.row.start }}; --row-end: {{ $slot.row.end }};">
+
+		<span class="start">
+			<span class="hh">{{ $hh }}</span>
+			<span class="mm">{{ $mm }}</span>
+		</span>
 
 		{{ partial "schedule-session" $sessionPage }}
 		</div>

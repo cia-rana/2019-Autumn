@@ -123,16 +123,6 @@ section .tags, .page.speakers .talk.tag-s-4h > div > span {
     text-indent:-9999px;
 }
 
-@media screen and (max-width:640px) {
-    .section.schedule .session>a .partner-img {
-        width:auto;
-        height:auto;
-        text-indent:0;
-        background-image:none !important;
-        margin-left: 1rem;
-    }
-}
-
 .session.format-organize {
     background-color: #b5e3ef;
 }
@@ -160,13 +150,35 @@ section .tags, .page.speakers .talk.tag-s-4h > div > span {
     grid-template-rows: 1fr 1fr;
 }
 
-.section.schedule .start {
+.slot .slot-start {
     grid-row: 1;
     font-size: 1em;
     position: unset;
 }
 
-.slot .end {
+.slot .slot-end {
     grid-row: 2;
     margin-top:auto;
+}
+
+@media screen and (max-width:640px) {
+    .section.schedule .session>a .partner-img {
+        width:auto;
+        height:auto;
+        text-indent:0;
+        background-image:none !important;
+        margin-left: 1rem;
+    }
+
+    .slot .slot-start {
+        display: none;
+    }
+    
+    .slot .slot-end {
+        display: none;
+    }
+
+    .section.schedule .session.inner{
+        transform: scale(1.0,1.0);
+    }
 }
