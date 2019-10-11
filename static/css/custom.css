@@ -60,7 +60,7 @@
 	border: none;
 }
 
-section .tags, .page.speakers .talk.tag-s-4h > div > span {
+.page.speakers .hero .description .talks .talk .tags {
 	color: var(--primary-txt);
 	background-color: var(--primary);
 	padding: var(--space-1);
@@ -68,11 +68,12 @@ section .tags, .page.speakers .talk.tag-s-4h > div > span {
 	border-color: var(--primary);
 }
 
-.page.speakers .talk.tag-s-4h > h3 {
+
+.page.speakers .hero .description .talks .talk > h3 {
 	font-size: 1.25em;
 }
 
-.page.speakers .talk.tag-s-4h > h3:hover, h3:focus{
+.page.speakers .hero .description .talks .talk > h3:hover, h3:focus {
 	text-decoration: underline;
 }
 
