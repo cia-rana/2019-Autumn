@@ -60,7 +60,12 @@
 	border: none;
 }
 
+.section.sessions ul.talks a .info .tags,
+.page.sessions .talk header .tags,
+.section.schedule .session>a .session-info .tags,
 .page.speakers .hero .description .talks .talk .tags {
+    width: 55px;
+    text-align: center;
 	color: var(--primary-txt);
 	background-color: var(--primary);
 	padding: var(--space-1);
@@ -93,8 +98,6 @@
 }
 
 .section.schedule .session>a .session-info .tags {
-    width: 60px;
-    text-align: center;
     grid-column:2;
     grid-row:1;
     padding-top: 4px;
