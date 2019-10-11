@@ -1,10 +1,8 @@
 ---
 key: po3rin
 name: po3rin
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
 feature: false
 company: Shiroyagi Corporation
-city: 'Tokyo'
 photoURL: /images/speakers/speaker-po3rin.jpeg
 socials:
   - icon: twitter

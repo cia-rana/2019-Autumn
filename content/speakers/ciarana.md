@@ -1,11 +1,10 @@
 ---
 key: ciarana
 name: CIARANA
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: ciarana
 feature: false
 company: CyberAgent, Inc.
-city: 'Tokyo, Japan'
-photoURL: /images/speakers/speaker-ciarana.jpg
+photoURL: /images/speakers/speaker-noimage.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/cia_rana'

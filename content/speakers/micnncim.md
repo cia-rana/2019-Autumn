@@ -1,9 +1,10 @@
 ---
 key: micnncim
 name: micnncim
-# id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
+id: micnncim
 feature: false
-city: 'Tokyo, Japan'
+company: 
+feature: false
 photoURL: /images/speakers/speaker-micnncim.png
 socials:
   - icon: twitter

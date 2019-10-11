@@ -1,0 +1,101 @@
+- day: '2019-10-28'
+  start: '09:00'
+  rooms:
+    - room: hall
+      slots:
+        - slot: registration
+          talk: registration
+        - slot: opening
+          talk: opening
+        - slot: c-1h
+          talk: c-1h
+        - slot: c-2h
+          talk: c-2h
+        - slot: c-3h
+          talk: c-3h
+        - slot: break1
+          talk: break
+        - slot: l-4
+          talk: Go_GC_algorithm_101
+        - slot: s-5
+          talk: GoにおけるAPI_Client実装パターン
+        - slot: lunch
+          talk: lunch
+        - slot: l-6
+          talk: oss_performance_tuning_tips
+        - slot: s-7
+          talk: Accelerate_Go_development_with_Bazel
+        - slot: s-8
+          talk: multi-cloud_portability_for_go_applications
+        - slot: break2
+          talk: break
+        - slot: s-9
+          talk: analysis_docker_image
+        - slot: s-10
+          talk: microsoft_graph_api_library_for_go
+        - slot: l-11
+          talk: make_pathfinding_engine_by_go
+        - slot: break3
+          talk: break
+        - slot: s-12
+          talk: schema_first_approach_to_graphql_server_development_in_go
+        - slot: l-13
+          talk: selfhost_go_compiler
+        - slot: break4
+          talk: break
+        - slot: c-14
+          talk: c-14h
+        - slot: c-15
+          talk: c-15h
+        - slot: closing
+          talk: closing
+    - room: room-a
+      slots:
+        - slot: l-4
+          talk: goptuna_distributed_bayesian_optimization_framework
+        - slot: s-5
+          talk: auto_creating_testcode_mechanism
+        - slot: lunch
+          talk: lunch
+        - slot: l-6
+          talk: api_scenario_testing_tool_with_plugin_package
+        - slot: s-7
+          talk: suggestions_and_techniques_for_building_neural_networks_with_go
+        - slot: s-8
+          talk: how_to_develop_container-kubernetes_ready_go_web_application
+        - slot: break2
+          talk: break
+        - slot: s-9
+          talk: parallel_simulated_earning
+        - slot: s-10
+          talk: continuous_go_fuzzing
+        - slot: l-11
+          talk: make_gameboy_emulator
+        - slot: break3
+          talk: break
+        - slot: s-12
+          talk: welcome_to_linter
+        - slot: l-13
+          talk: write_container_runtime_in_go
+    - room: room-b
+      slots:
+        - slot: chillout1
+          talk: chillout
+        - slot: chillout2
+          talk: chillout
+        - slot: party
+          talk: party
+        - slot: lt1
+          talk: recipe_to_adopt_go_modules_in_5minutes
+        - slot: lt2
+          talk: error_handling
+        - slot: lt3
+          talk: trouble_about_db_in_web_application_development
+        - slot: lt4
+          talk: go_for_first_programming
+        - slot: lt5
+          talk: using_go_plugins
+        - slot: lt6
+          talk: considering_the_introduction_of_the_anonymous_function_syntax_sugar_into_go
+        - slot: lt7
+          talk: webassembly

@@ -1,0 +1,199 @@
+- key: registration
+  start: '09:00'
+  duration: 60
+  row:
+    start: 1
+    end: 2
+- key: opening
+  start: '10:00'
+  duration: 10
+  row:
+    start: 2
+    end: 3
+- key: c-1h
+  start: '10:10'
+  duration: 5
+  row:
+    start: 3
+    end: 5
+- key: c-2h
+  start: '10:15'
+  duration: 5
+  row:
+    start: 5
+    end: 7
+- key: c-3h
+  start: '10:25'
+  duration: 10
+  row:
+    start: 7
+    end: 9
+- key: break1
+  start: '10:35'
+  duration: 15
+  row:
+    start: 9
+    end: 10
+- key: l-4
+  start: '10:50'
+  duration: 40
+  row:
+    start: 10
+    end: 12
+- key: s-5
+  start: '11:40'
+  duration: 20
+  row:
+    start: 12
+    end: 14
+- key: lunch
+  start: '12:00'
+  duration: 80
+  row:
+    start: 14
+    end: 16
+- key: l-6
+  start: '13:25'
+  duration: 40
+  row:
+    start: 16
+    end: 18
+- key: s-7
+  start: '14:10'
+  duration: 20
+  row:
+    start: 18
+    end: 20
+- key: s-8
+  start: '14:35'
+  duration: 20
+  row:
+    start: 20
+    end: 22
+- key: break2
+  start: '14:55'
+  duration: 10
+  row:
+    start: 22
+    end: 23
+- key: s-9
+  start: '15:05'
+  duration: 20
+  row:
+    start: 23
+    end: 25
+- key: s-10
+  start: '15:30'
+  duration: 20
+  row:
+    start: 25
+    end: 27
+- key: l-11
+  start: '15:55'
+  duration: 40
+  row:
+    start: 27
+    end: 29
+- key: break3
+  start: '16:35'
+  duration: 10
+  row:
+    start: 29
+    end: 30
+- key: s-12
+  start: '16:45'
+  duration: 20
+  row:
+    start: 30
+    end: 32
+- key: l-13
+  start: '17:10'
+  duration: 40
+  row:
+    start: 32
+    end: 34
+- key: break4
+  start: '17:55'
+  duration: 10
+  row:
+    start: 34
+    end: 35
+- key: c-14
+  start: '18:00'
+  duration: 5
+  row:
+    start: 35
+    end: 37
+- key: c-15
+  start: '18:05'
+  duration: 5
+  row:
+    start: 37
+    end: 39
+- key: closing
+  start: '18:10'
+  duration: 10
+  row:
+    start: 39
+    end: 40
+- key: chillout1
+  start: '14:35'
+  duration: 90
+  row:
+    start: 16
+    end: 22
+- key: chillout2
+  start: '15:05'
+  duration: 90
+  row:
+    start: 23
+    end: 29
+- key: party
+  start: '18:35'
+  end: '20:00'
+  duration: 100
+  row:
+    start: 40
+    end: 57
+- key: lt1
+  start: '18:45'
+  duration: 5
+  row:
+    start: 41
+    end: 43
+- key: lt2
+  start: '18:50'
+  duration: 5
+  row:
+    start: 43
+    end: 45
+- key: lt3
+  start: '18:55'
+  duration: 5
+  row:
+    start: 45
+    end: 47
+- key: lt4
+  start: '19:00'
+  duration: 5
+  row:
+    start: 47
+    end: 49
+- key: lt5
+  start: '19:05'
+  duration: 5
+  row:
+    start: 49
+    end: 51
+- key: lt6
+  start: '19:10'
+  duration: 5
+  row:
+    start: 51
+    end: 53
+- key: lt7
+  start: '19:15'
+  duration: 5
+  row:
+    start: 53
+    end: 55
