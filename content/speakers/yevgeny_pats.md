@@ -4,7 +4,6 @@ name: Yevgeny Pats
 id: yevgeny_pats
 feature: false
 company: Fuzzit
-city: 'Tel-Aviv, Israel'
 photoURL: /images/speakers/speaker-yevgeny-pats.jpeg
 socials:
   - icon: twitter

@@ -5,7 +5,6 @@ id: micnncim
 feature: false
 company: 
 feature: false
-city: 'Tokyo, Japan'
 photoURL: /images/speakers/speaker-micnncim.png
 socials:
   - icon: twitter

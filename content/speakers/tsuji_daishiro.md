@@ -4,7 +4,7 @@ name: Tsuji Daishiro
 id: tsuji_daishiro
 feature: false
 company: Future Corporation
-photoURL: /images/speakers/speaker-tsuji-daishiro.jpg
+photoURL: /images/speakers/speaker-noimage.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/d_tutuz'

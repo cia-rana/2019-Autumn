@@ -4,7 +4,7 @@ name: Praveen Sastry
 id: praveen_sastry
 feature: false
 company: Senior Engineer @ Seek
-photoURL: /images/speakers/speaker-praveen-sastry.jpg
+photoURL: /images/speakers/speaker-noimage.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/geek4evr'

@@ -4,7 +4,6 @@ name: tomoko hirata
 id: tomoko_hirata
 feature: false
 company: Gunosy
-city: 'Tokyo'
 photoURL: /images/speakers/speaker-tomoko-hirata.jpeg
 socials:
   - icon: twitter

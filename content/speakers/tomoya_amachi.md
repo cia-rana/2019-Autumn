@@ -4,7 +4,6 @@ name: Tomoya Amachi
 key: tomoya_amachi
 feature: false
 company: GoodWith LLC.,
-city: 'Yokohama, Japan'
 photoURL: /images/speakers/speaker-tomoya-amachi.jpeg
 socials:
   - icon: twitter

@@ -4,7 +4,6 @@ name: Kenta Mori
 id: kenta_mori
 feature: false
 company: Merpay
-city: 'Tokyo, Japan'
 photoURL: /images/speakers/speaker-kenta-mori.png
 socials:
   - icon: twitter

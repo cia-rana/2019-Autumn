@@ -9,7 +9,7 @@ tags:
   - LT1
 level: beginner
 speakers:
-  - ankush_chadha
+  - kat_cosgrove
 videoId: null
 presentation: null
 draft: false

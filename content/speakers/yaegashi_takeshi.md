@@ -3,7 +3,6 @@ key: yaegashi_takeshi
 name: YAEGASHI Takeshi
 id: yaegashi_takeshi
 feature: false
-city: 'Tokyo'
 photoURL: /images/speakers/speaker-yaegashi-takeshi.jpeg
 socials:
   - icon: twitter

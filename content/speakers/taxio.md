@@ -4,7 +4,6 @@ name: taxio
 id: taxio
 feature: false
 company: Wantedly, Inc.
-city: 'Tokyo, Japan'
 photoURL: /images/speakers/speaker-taxio.png
 socials:
   - icon: twitter

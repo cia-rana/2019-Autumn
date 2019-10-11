@@ -4,7 +4,6 @@ name: Michiru Shirakawa
 id: michiru_shirakawa
 feature: false
 company: LINE Corporation
-city: 'Tokyo'
 photoURL: /images/speakers/speaker-michiru-shirakawa.png
 socials:
   - icon: twitter

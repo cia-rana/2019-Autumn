@@ -4,8 +4,7 @@ name: avvmoto.stmasnotes
 id: avvmoto_stmasnotes
 feature: false
 company: DeNA
-city: 'Tokyo'
-photoURL: /images/speakers/speaker-avvmoto.jpg
+photoURL: /images/speakers/speaker-noimage.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/avvmoto'
