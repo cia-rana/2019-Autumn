@@ -5,7 +5,7 @@ jobs:
       only:
         - master
     docker:
-      - image: seitauc/docker-hugo-firebase:latest
+      - image: tenntenn/docker-hugo-firebase:latest
     steps:
       - checkout
         # install git submodules for managing third-party dependencies
