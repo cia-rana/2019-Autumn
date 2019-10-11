@@ -175,6 +175,10 @@
     margin-top:auto;
 }
 
+.section.schedule main>section.schedule .day .slot {
+    background-color: transparent;
+}
+
 @media screen and (max-width:640px) {
     .section.schedule .session>a .partner-img {
         width:auto;

@@ -35,12 +35,13 @@
 
 		<h2>{{- partial "date-long.html" (dict "time" .day "lang" $lang) }}</h2>
 
-        {{ $slot_done := dict }}
+        {{ $start_done := (dict "__dummy" "true")}}
 		{{ range .rooms }}
 		{{ range .slots }}
-        {{ if not (index $slot_done .slot) }}
 		{{ $slot := index (where $.Site.Data.slots "key" .slot) 0 }}
 		{{ $start_time := split $slot.start ":" }}
+        {{ if not (index $start_done $slot.start) }}
+        {{ $start_done = merge $start_done (dict $slot.start "true")}}
 		{{ $start_hh := index $start_time 0 }}
 		{{ $start_mm := index $start_time 1 }}
 
