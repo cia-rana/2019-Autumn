@@ -4,7 +4,7 @@ name: CIARANA
 id: ciarana
 feature: false
 company: CyberAgent, Inc.
-photoURL: /images/speakers/speaker-ciarana.png
+photoURL: /images/speakers/speaker-ciarana.jpeg
 socials:
   - icon: twitter
     link: 'https://twitter.com/cia_rana'
