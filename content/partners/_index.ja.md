@@ -14,4 +14,4 @@ draft: false
 
 <!-- Parteners list -->
 
-{{< partners categories="wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire" >}}
+{{% partners categories="wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire,special thanks" %}}

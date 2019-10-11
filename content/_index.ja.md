@@ -70,7 +70,7 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 {{% /home-tickets %}}
 
 
-{{% partners categories="wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire" %}}
+{{% partners categories="wi-fi,party,scholarship,coffee,water,treat,battery,tofu on fire,special thanks" %}}
 # スポンサー
 {{% /partners %}}
 
